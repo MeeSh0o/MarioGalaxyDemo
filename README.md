@@ -1,2 +1,2 @@
 # MarioGalaxyDemo
-Try to implement and nor succeed
+Try to implement and not succeed
